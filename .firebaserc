@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "task-management-89471": {
+      "hosting": {
+        "task-mangement": [
+          "task-management-89471"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "task-management-89471"
+  }
+}
